@@ -1,0 +1,13 @@
+{
+    "name": "beosdev/wordpress-debugging",
+    "authors": [
+        {
+            "name": "Liam",
+            "email": "blhl1210@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "Liam\\": "src/" }
+    }
+}
